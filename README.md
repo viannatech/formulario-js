@@ -45,7 +45,7 @@ Font Awesome (ícones)
 
 Baixe ou clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/viannatech/formulário-js.git
 
 
 Abra o arquivo index.html no seu navegador.
